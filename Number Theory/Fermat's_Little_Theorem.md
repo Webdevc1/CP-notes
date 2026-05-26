@@ -1,3 +1,3 @@
 # Fermat's Little Theorem ([[FLT]1])
 
-This a fuundamental theorem 
+This a fundamental theorem.
